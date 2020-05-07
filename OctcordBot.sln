@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctcordBot", "OctcordBot.csproj", "{312A7C98-707A-48A2-8829-B627452A2BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{312A7C98-707A-48A2-8829-B627452A2BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312A7C98-707A-48A2-8829-B627452A2BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312A7C98-707A-48A2-8829-B627452A2BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312A7C98-707A-48A2-8829-B627452A2BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C890B2E0-16B6-4976-BD48-1322F55BD025}
+	EndGlobalSection
+EndGlobal
