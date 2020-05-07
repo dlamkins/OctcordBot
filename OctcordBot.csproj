@@ -5,6 +5,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ApplicationIcon />
     <StartupObject />
+    <Version>0.0.1</Version>
+    <Authors>Dade Lamkins</Authors>
+    <Product />
+    <Description>OctcordBot is a bot to help you keep up with bug reports and feature requests from within your Discord channel.</Description>
+    <PackageProjectUrl>https://github.com/dlamkins/OctcordBot</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/dlamkins/OctcordBot</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
