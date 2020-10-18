@@ -1,10 +1,12 @@
-﻿# OctcordBot
+# OctcordBot
 
 OctcordBot is a bot to help you keep up with bug reports and feature requests in your Discord channel.
 
 At this time, it can allow up to 1 individual to "react" to messages with either a feature request or bug emote (of your choosing).  Doing so will automatically generate an issue on GitHub with the proper label and a reference back to the post in Discord.  It will then post a reply in the channel letting the user know where they can track the issue's progress.
 
 ## Setup
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdlamkins%2FOctcordBot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdlamkins%2FOctcordBot?ref=badge_shield)
+
 
 #### 1. Config Params
 
@@ -69,3 +71,5 @@ For release, we've used both:
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdlamkins%2FOctcordBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdlamkins%2FOctcordBot?ref=badge_large)
